@@ -8,7 +8,7 @@ A brief description of what this project does and who it's for
 
 **Client:** React, Redux, TailwindCSS
 
-**Server:** Flask, mongodb, pytorch, aws s3
+**Server:** Flask, MongoDB, Pytorch, AWS S3
 
 
 ## Steps for Setup
