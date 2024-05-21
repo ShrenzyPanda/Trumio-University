@@ -1,7 +1,7 @@
 
 # Trumio University
 
-Trumio University is a standalone platform designed to address key challenges faced by students and clients in project collaboration and skill development. It features a diverse repository of courses created by Trumio and other contributors. The platform is integrated with an AI recommender system, including a Course Recommender and a News Flash section.
+Trumio University is a standalone platform designed to address key challenges students and clients face in project collaboration and skill development. It features a diverse repository of courses created by Trumio and other contributors (currently, the course dataset is from UDemy). The platform is integrated with an AI recommender system, including a Course Recommender and a News Flash section.
 
 ## Key Features and Components:
 ● Course Recommender: An AI-based system that assists users in finding courses tailored to their skills, interests, and ongoing projects.
